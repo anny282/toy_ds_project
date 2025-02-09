@@ -1,2 +1,3 @@
 # toy_ds_project
-project creation date: 2025.02.08
+Project creation date: 2025.02.08
+Author: Anny Wang
